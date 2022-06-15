@@ -1,3 +1,15 @@
+# Клонирование репозитория
+
+```bash
+git clone https://github.com/tyrkinn/raspberry_web_led
+```
+
+# Сборка схемы
+
+Схема будет похожа на эту, только в моем случае красный провод подключен к 7 порту, а черный к 6
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlnmh9ip6v2uc.cloudfront.net%2Fassets%2Fe%2F1%2F4%2Fc%2Fa%2F528bd59d757b7f65548b4567.png&f=1&nofb=1" />
+
 # Установка зависимостей
 
 Установка uvicorn
