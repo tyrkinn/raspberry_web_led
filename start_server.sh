@@ -1,0 +1,1 @@
+sudo uvicorn server:app --port 80 --host 192.168.43.253
